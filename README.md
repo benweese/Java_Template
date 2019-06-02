@@ -1,3 +1,8 @@
+# BenWeese.Dev
+- [Home](https://benweese.dev)
+- [Java Automation](https://benweese.dev/javaautomation/)
+- [BenWeese.com](https://benweese.com)
+
 ## Name
 This project is for ...
 
