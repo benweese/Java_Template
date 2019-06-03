@@ -11,7 +11,7 @@ Details...
 
 ## Build status of master
 
-[![Build Status](https://travis-ci.org/benweese/javaautomation.svg?branch=master)](https://travis-ci.org/benweese/javaautomation)
+[![CircleCI](https://circleci.com/gh/benweese/Java_Template/tree/master.svg?style=svg)](https://circleci.com/gh/benweese/Java_Template/tree/master)
 
 ## Tools
 
