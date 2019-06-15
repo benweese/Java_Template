@@ -11,7 +11,7 @@ Details...
 
 ## Build status of master
 
-[![CircleCI](https://circleci.com/gh/benweese/Java_Template/tree/master.svg?style=svg)](https://circleci.com/gh/benweese/Java_Template/tree/master)
+[![CircleCI](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master.svg?style=svg)](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master)
 
 ## Tools
 
