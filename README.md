@@ -1,13 +1,14 @@
 # BenWeese.Dev
 - [Home](https://benweese.dev)
 - [Java Automation](https://benweese.dev/javaautomation/)
+- [Postman](https://benweese.dev/Postman/)
 - [BenWeese.com](https://benweese.com)
 
-## Name
-This project is for ...
+## Java Automation Template
+This project is a template for browser automation with Java, Cucumber, and Selenium.
 
 ## Motivation
-Details...
+This is so I can start new projects with browser automation
 
 ## Build status of master
 
