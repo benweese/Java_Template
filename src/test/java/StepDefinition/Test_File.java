@@ -38,7 +38,7 @@ public class Test_File {
     @When("^statement (\\d+)$")
     public void statement(int arg) {
 
-       throw PendingException;
+       //throw PendingException;
 
 
     }
