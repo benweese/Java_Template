@@ -3,8 +3,6 @@
 - [Java Automation](https://benweese.dev/Java_Automation/)
 - [Postman](https://benweese.dev/Postman/)
 - [BenWeese.com](https://benweese.com)
-- [Websites](http://benweese.dev/Websites/)
-- [Synology NAS](https://benweese.dev/Synology-NAS/)
 
 ## Java Automation Template
 This project is a template for browser automation with Java, Cucumber, and Selenium.
