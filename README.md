@@ -1,5 +1,6 @@
 # BenWeese.Dev
 - [Home](https://benweese.dev)
+- [Documentation](https://benweese.dev/documentation/intro.html)
 - [Java Automation](https://benweese.dev/Java_Automation/)
 - [Postman](https://benweese.dev/Postman/)
 - [BenWeese.com](https://benweese.com)
