@@ -17,7 +17,7 @@ public class Test_File {
     private WebDriver driver;
     private TestPOM testPOM;
     private String url;
-    private Setup setup = new setup();
+    private Setup setup = new Setup();
 
 
     @Before
