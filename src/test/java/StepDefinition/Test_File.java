@@ -1,6 +1,6 @@
 package StepDefinition;
 
-import io.cucumber.PendingException;
+import cucumber.api.PendingException;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
