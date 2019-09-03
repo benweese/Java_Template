@@ -13,7 +13,7 @@ This is so I can start new projects with browser automation
 
 ## Build status of master
 
-[![CircleCI](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master.svg?style=shield)](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master)
+[![CircleCI](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master.svg?style=shield)](https://circleci.com/gh/benweese/Java_Automation_Template/tree/master) ![Actions](https://github.com/benweese/Java_Automation_Template/workflows/Java%20CI/badge.svg)
 
 ## Tools
 
